@@ -73,9 +73,13 @@ Write the register as:
 List blocked components in release-manifest order.
 
 ## Sign-off
-After all artifacts are written, post one comment on the release tracking issue
-with exactly:
+After all artifacts are written, replace `RELEASE_SIGNOFF.md` with exactly:
 
-`Notices added: <n>. Source offers: <m>. Blocked: <k>. Exempt: <j>.`
+```
+# Release Sign-off — <release id>
 
-Then close the tracking issue.
+Status: signed-off
+Notices added: <n>. Source offers: <m>. Blocked: <k>. Exempt: <j>.
+```
+
+Then close the release tracking issue.
