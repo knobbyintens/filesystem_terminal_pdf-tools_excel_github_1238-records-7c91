@@ -1,7 +1,7 @@
 {
   "release_id": "RL-2026.11",
   "product": "Meridian Observe",
-  "vendor_registry": "knobbyintens/huggingface_github_terminal_fetch_memory_3434-vendor-7k3m9p",
+  "vendor_registry": "knobbyintens/huggingface_github_terminal_fetch_memory_3434-comp-7k3m9p#vendor-registry",
   "components": [
     {
       "name": "GPT-2 Base",

@@ -4,6 +4,7 @@ Internal repository for release license compliance.
 
 - `release_manifest.json` — components included in the current release.
 - `policy/license_policy.md` — binding license policy.
+- the `vendor-registry` branch — mirrors of the third-party library packages.
 - `THIRD_PARTY_NOTICES.md` — compliance-controlled, append-only notices ledger.
 - `BLOCKED_COMPONENTS.json` — blocked component register for the current release.
 
